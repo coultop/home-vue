@@ -18,8 +18,8 @@
     "hoverColor": "#00bfff"
   },
   {
-    "type": "支付宝",
-    "icon": "fab fa-alipay",
+    "type": "QQ",
+    "icon": "fa-brands fa-qq",
     "qrCode": "https://lib.bsgun.cn/Hexo-static/img/zfbzf.avif",
     "hoverColor": "#007aff"
   },
@@ -27,6 +27,12 @@
     "type": "微信",
     "icon": "fab fa-weixin",
     "qrCode": "https://lib.bsgun.cn/Hexo-static/img/wxzf.avif",
+    "hoverColor": "#247700"
+  },
+  {
+    "type": "哔哩哔哩",
+    "icon": "fa-brands fa-bilibili",
+    "qrCode": "https://space.bilibili.com/593957554",
     "hoverColor": "#247700"
   }
 ]
