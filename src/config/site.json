@@ -6,7 +6,7 @@
   },
   {
     "name": "博客",
-    "url": "https://blog.bsgun.cn",
+    "url": "https://blog.coul.top",
     "icon": "fa fa-blog"
   },
   {
@@ -16,17 +16,17 @@
   },
   {
     "name": "图床",
-    "url": "https://dev.ruom.top",
+    "url": "https://dev.coul.top",
     "icon": "fa fa-image"
   },
   {
     "name": "封面",
-    "url": "https://cover.ruom.top",
+    "url": "https://cover.coul.top",
     "icon": "fa fa-panorama"
   },
   {
     "name": "监测",
-    "url": "https://status.bsgun.cn",
+    "url": "https://status.coul.top",
     "icon": "fa fa-chart-line"
   }
 ]
