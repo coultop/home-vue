@@ -8,8 +8,14 @@
   {
     "type": "Github",
     "icon": "fab fa-github",
-    "url": "https://github.com/JLinmr",
+    "url": "https://github.com/coultop",
     "hoverColor": "#6500fc"
+  },
+  {
+    "type": "steam",
+    "icon": "fa-brands fa-steam ",
+    "url": "https://steamcommunity.com/profiles/76561199340571172/",
+    "hoverColor": "#00bfff"
   },
   {
     "type": "支付宝",
