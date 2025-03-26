@@ -20,19 +20,19 @@
   {
     "type": "QQ",
     "icon": "fa-brands fa-qq",
-    "qrCode": "https://lib.bsgun.cn/Hexo-static/img/zfbzf.avif",
+    "qrCode": "https://pixpro.coul.top/i/2025/03/26/656492.webp",
     "hoverColor": "#007aff"
   },
   {
     "type": "微信",
     "icon": "fab fa-weixin",
-    "qrCode": "https://lib.bsgun.cn/Hexo-static/img/wxzf.avif",
+    "qrCode": "https://pixpro.coul.top/i/2025/03/26/968364.webp",
     "hoverColor": "#247700"
   },
   {
     "type": "哔哩哔哩",
     "icon": "fa-brands fa-bilibili",
-    "qrCode": "https://space.bilibili.com/593957554",
+    "qrCode": "https://space.bilibili.com/593957554/",
     "hoverColor": "#ff6699"
   }
 ]
