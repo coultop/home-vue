@@ -32,7 +32,7 @@
   {
     "type": "哔哩哔哩",
     "icon": "fa-brands fa-bilibili",
-    "qrCode": "https://space.bilibili.com/593957554?spm_id_from=333.1007.0.0",
+    "url": "https://space.bilibili.com/593957554",
     "hoverColor": "#ff6699"
   }
 ]
